@@ -3,4 +3,4 @@ A Triple Triad style game made with Typescript, PIXI and THREE. I started this a
 
 Graphics and programming by me.
 
-You can take a look at what I did [here](keianhzo.github.com/mechas).
+You can take a look at what I did [here](https://keianhzo.github.com/mechas).
